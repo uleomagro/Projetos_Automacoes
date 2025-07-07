@@ -13,8 +13,6 @@ AC_resp/
 ├── listas.xlsx           # Planilha com os dados (não incluída no repositório)
 ```
 
-> ⚠️ O arquivo `listas.xlsx` contém informações sensíveis e **não deve ser enviado para o GitHub**. Adicione-o manualmente à pasta raiz do projeto.
-
 ---
 
 ## 📋 Pré-requisitos
