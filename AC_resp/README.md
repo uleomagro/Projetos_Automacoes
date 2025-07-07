@@ -10,7 +10,7 @@ Este projeto em Python automatiza o processo de atualização de responsáveis p
 AC_resp/
 ├── main.py               # Script principal da automação
 ├── requirements.txt      # Lista de dependências do projeto
-├── listas.xlsx           # Planilha com os dados (não incluída no repositório)
+├── lista.xlsx           # Planilha com os dados (não incluída no repositório)
 ```
 
 ---
@@ -40,7 +40,7 @@ Antes de executar o projeto, certifique-se de ter:
    pip install -r requirements.txt
    ```
 
-3. **Coloque o arquivo `listas.xlsx` na raiz do projeto.**
+3. **Coloque o arquivo `lista.xlsx` na raiz do projeto.**
 
    Esse arquivo deve conter pelo menos as seguintes colunas (sem aspas):
    - `Codigo`: Código da empresa no sistema
