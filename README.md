@@ -1,4 +1,4 @@
-# Automação de Sistemas – Projetos Diversos
+# ⚙️ Automação de Sistemas – Projetos Diversos
 Este repositório contém uma coleção de pequenos projetos de automação desenvolvidos para facilitar tarefas repetitivas, integrar sistemas, ou simplificar fluxos manuais em diferentes ambientes e tecnologias.
 
 # Estrutura do Repositório
